@@ -1,4 +1,4 @@
-# NOVA E-commerce Demo
+# YourVerse E-commerce Demo
 
 A responsive React + Vite e-commerce portfolio project.
 
@@ -19,4 +19,4 @@ A responsive React + Vite e-commerce portfolio project.
 - Accessible labels and reduced-motion support
 
 ## Important
-This is a frontend portfolio demo, not a production store. It has no backend, authentication, inventory, order API, or real payment processing. Product images are remote Unsplash URLs and require an internet connection. Replace demo products, prices, copy, and contact details with your own before publishing.
+This is a frontend  demo, not a production store. It has no backend, authentication, inventory, order API, or real payment processing. Product images are remote Unsplash URLs and require an internet connection. Replace demo products, prices, copy, and contact details with your own before publishing.
